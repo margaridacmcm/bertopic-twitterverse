@@ -1,7 +1,7 @@
 # bertopic-twitterverse
 Optimizing BERTopic to the 117th U.S. Congress Twitterverse
 
-This repo contains the materials developed in the context of my master thesis. Its aim was to optimize BERTopic for Twitter data, interpreting its results in the context of the 117th U.S. Congress Twitterverse. It also provides a tool for visualizing the data at hand. NER is also performed, although it was not included in the final document.
+This repo contains the materials developed in the context of my master thesis in Data Science (_Decoding U.S. Political Discourse: a Natural Language Processing Automatic Approach to Analyzing Major Politicians' Tweets_, Universidade do Porto). Its aim was to optimize BERTopic for Twitter data, interpreting its results in the context of the 117th U.S. Congress Twitterverse. A case study chapter includes an assessment of these results under the Morality Foundations Framework. It also provides a tool for visualizing the data at hand. NER is also performed, although it was not included in the final document.
 
 ### Materials
   ##### Data and Code
